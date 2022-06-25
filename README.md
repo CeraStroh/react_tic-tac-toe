@@ -17,5 +17,5 @@ All dependencies in the app must be installed first.
 ### `npm start`
 Start the app on http://localhost3000.
 
-### `Ctrl + C`
+### `Ctrl` + `C`
 Stop the app.
