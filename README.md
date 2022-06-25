@@ -5,8 +5,8 @@ I followed along with the React.js <a href="https://reactjs.org/tutorial/tutoria
 React is a JavaScript library for building user interfaces.
 
 
-### npm install
+### `npm install`
 All dependencies in the app must be installed first.
 
-### npm start
+### `npm start`
 Start the app on http://localhost3000
